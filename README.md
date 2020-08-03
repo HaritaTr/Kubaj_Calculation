@@ -1,2 +1,1 @@
-# Kubaj_Calculation
-Kübaj Hesaplama
+# Kübaj Hesaplama
